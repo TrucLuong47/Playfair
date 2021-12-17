@@ -1,0 +1,60 @@
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\bin\Debug\Playfair.exe.config
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\bin\Debug\Playfair.exe
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\bin\Debug\Playfair.pdb
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.frmPlayfair.resources
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.exe
+C:\Users\ASUS\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.pdb
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\bin\Debug\Playfair.exe.config
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\bin\Debug\Playfair.exe
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\bin\Debug\Playfair.pdb
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\obj\Debug\Playfair.frmPlayfair.resources
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\obj\Debug\Playfair.exe
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\obj\Debug\Playfair.pdb
+C:\Users\Admin-PC\OneDrive\Máy tính\Playfair-master\Playfair\obj\Debug\Playfair.csproj.AssemblyReference.cache
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\bin\Debug\Playfair.exe.config
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\bin\Debug\Playfair.exe
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\bin\Debug\Playfair.pdb
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\obj\Debug\Playfair.csproj.AssemblyReference.cache
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\obj\Debug\Playfair.frmPlayfair.resources
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\obj\Debug\Playfair.exe
+C:\Users\tkhoa\Downloads\Playfair-master_fix_5x5\Playfair-master\Playfair\obj\Debug\Playfair.pdb
+C:\Users\admin\Desktop\Playfair-master\Playfair\bin\Debug\Playfair.exe.config
+C:\Users\admin\Desktop\Playfair-master\Playfair\bin\Debug\Playfair.exe
+C:\Users\admin\Desktop\Playfair-master\Playfair\bin\Debug\Playfair.pdb
+C:\Users\admin\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.frmPlayfair.resources
+C:\Users\admin\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\admin\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.exe
+C:\Users\admin\Desktop\Playfair-master\Playfair\obj\Debug\Playfair.pdb
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\bin\Debug\Playfair.exe.config
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\bin\Debug\Playfair.exe
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\bin\Debug\Playfair.pdb
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\obj\Debug\Playfair.frmPlayfair.resources
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\obj\Debug\Playfair.exe
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\obj\Debug\Playfair.pdb
+C:\Users\Admin-PC\Downloads\Playfair-master\Playfair\obj\Debug\Playfair.csproj.AssemblyReference.cache
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\bin\Debug\Playfair.exe.config
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\bin\Debug\Playfair.exe
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\bin\Debug\Playfair.pdb
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\obj\Debug\Playfair.csproj.AssemblyReference.cache
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\obj\Debug\Playfair.frmPlayfair.resources
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\obj\Debug\Playfair.exe
+C:\Users\Admin-PC\Downloads\Playfair_nhom16\Playfair\obj\Debug\Playfair.pdb

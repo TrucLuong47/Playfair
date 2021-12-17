@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ce4edcd-0b6c-4f34-9371-5435f2b2d555": {
+      "ProjectGuid": "8ce4edcd-0b6c-4f34-9371-5435f2b2d555",
+      "DisplayName": "Playfair",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
